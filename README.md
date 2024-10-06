@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm an Analytics Engineer from Nairobi Kenya.</h2>
+<h2 align="left">Hi 👋! Analytics Engineer, Nairobi Kenya.</h2>
 
 ###
 
